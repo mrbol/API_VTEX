@@ -8,7 +8,7 @@ Neste class Library metodos prontos para consumir API da VTEX
 
 ## TECNOLOGIA
 
-[ ] Framework .NET C#
+-   [ ] Framework .NET C#
 
 ## OBSERVAÇÃO
 
